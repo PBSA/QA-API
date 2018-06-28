@@ -1,2 +1,2 @@
 market-maker:
-  url: http://127.0.0.1:5001
+  url: ec2-35-183-41-242.ca-central-1.compute.amazonaws.com:5051
