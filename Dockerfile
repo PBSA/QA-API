@@ -32,4 +32,4 @@ EXPOSE 5050
 
 # default execute entry
 WORKDIR /app
-CMD echo supersecret | python3 /app/qaapi.py
+CMD echo supersecret | python3 -u /app/qaapi.py
